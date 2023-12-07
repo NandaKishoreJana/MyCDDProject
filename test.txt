@@ -1,0 +1,11 @@
+CSE b.tech honors
+
+about git commands:
+
+esc + : + Q
+esc + : + W + Q
+
+to save any file in github
+
+git reset:
+for deleting any version
